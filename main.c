@@ -1,7 +1,3 @@
-//Implementation of Tabulation Method
-//Name:- Bhaavik Pratyush
-//Faculty No.:-16PEB011
-
 #include <stdio.h>
 #include <stdlib.h>
 
